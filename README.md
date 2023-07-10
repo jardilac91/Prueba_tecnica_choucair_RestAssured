@@ -4,7 +4,7 @@ This project performs diferent API tests for https://dummy.restapiexample.com/
 
 The structure used in the project is Screenplay usin Java - Serenity and Cucumber.
 
-these methods are covered in the project:
+The following methods are covered in the project:
 
 * Get.
 * Post.
