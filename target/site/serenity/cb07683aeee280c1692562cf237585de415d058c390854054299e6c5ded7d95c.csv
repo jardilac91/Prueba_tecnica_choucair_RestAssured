@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get information about employees.","Get all employees information.","FAILURE","2023-07-10T01:32:06.907995-05:00[America/Bogota]","0.0","0.79"
+"Get information about employees.","Get the information about a employee.","FAILURE","2023-07-10T01:32:07.7890619-05:00[America/Bogota]","0.0","0.75"
+"Get information about employees.","Get the information about a employee.","FAILURE","2023-07-10T01:32:07.7890619-05:00[America/Bogota]","0.0","0.75"

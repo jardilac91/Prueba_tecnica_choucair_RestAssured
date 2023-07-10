@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="3" name="Get information about employees." skipped="0" tests="3" time="1.54" timestamp="2023-07-10 01:32:06"><testcase name="Get all employees information."><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;429&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;429&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;429&gt;.
+&#13;
+automationApi.stepdefinitions.stepdefinitionsget.the_response_received_has_a_status(stepdefinitionsget.java:36)&#13;
+✽.The response received has a status 200,(file:///D:/Choucair/Prueba_API_Choucair/src/test/resources/features/getEmployees.feature:6)&#13;
+</system-err></testcase><testcase name="Get the information about a employee."><failure message="1 expectation failed.&#10;XML path data.employee_name doesn't match.&#10;Expected: Tiger Nixon&#10;  Actual: &lt;&gt;&#10;" type="java.lang.AssertionError">1 expectation failed.
+XML path data.employee_name doesn't match.
+Expected: Tiger Nixon
+  Actual: &lt;&gt;
+</failure><system-err>1 expectation failed.
+XML path data.employee_name doesn't match.
+Expected: Tiger Nixon
+  Actual: &lt;&gt;
+&#13;
+automationApi.stepdefinitions.stepdefinitionsget.theUserGetNameOfTheEmployeeAndAStatusStatusWithAMessageMessage(stepdefinitionsget.java:67)&#13;
+✽.the user get "Tiger Nixon" of the employee and a status "success" with a message "Successfully! Record has been fetched.".(file:///D:/Choucair/Prueba_API_Choucair/src/test/resources/features/getEmployees.feature:12)&#13;
+</system-err></testcase></testsuite>

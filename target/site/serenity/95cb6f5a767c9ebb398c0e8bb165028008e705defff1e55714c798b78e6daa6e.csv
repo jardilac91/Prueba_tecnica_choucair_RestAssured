@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get information about employees.","Get all employees information.","FAILURE","2023-07-10T01:32:06.907995-05:00[America/Bogota]","0.0","0.79"
+"Get information about employees.","Get the information about a employee.","FAILURE","2023-07-10T01:32:07.7890619-05:00[America/Bogota]","0.0","0.75"
+"Get information about employees.","Get the information about a employee.","FAILURE","2023-07-10T01:32:07.7890619-05:00[America/Bogota]","0.0","0.75"
+"Create an employee.","Create an employee.","FAILURE","2023-07-10T01:32:09.2321697-05:00[America/Bogota]","0.0","0.61"
+"Update an employee.","update an employee.","FAILURE","2023-07-10T01:32:09.864215-05:00[America/Bogota]","0.0","0.71"
